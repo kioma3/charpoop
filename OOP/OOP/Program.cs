@@ -10,7 +10,14 @@ namespace OOP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            //task1.FirstTask();
+            //task2.SecondTask();
+            //task3.ThirdTask();
+            //task4.FourthTask();
+            //task5.FifthTask();
+            //task6.SixthTask();
+            //task7.SeventhTask();
+            //task8.EightsTask();
         }
     }
 }
