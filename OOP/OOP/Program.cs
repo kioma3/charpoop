@@ -10,7 +10,12 @@ namespace OOP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine();
+            //task1.Calculator(3.5, 4.2, "+");
+            //task2.Prime(11);
+            //task3.Convertor(3500.45);
+            //task4.MinMax()
+            //task5.Word();
+            //task6.GeometryCalc();
         }
     }
 }
