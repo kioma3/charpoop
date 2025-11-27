@@ -13,7 +13,7 @@ namespace OOP
 
             Person[] people = new Person[6];
 
-            Console.WriteLine("--- Введення даних про 6 осіб ---");
+            Console.WriteLine("Введення даних про 6 осіб");
             for (int i = 0; i < people.Length; i++)
             {
                 Console.WriteLine($"\nОсоба #{i + 1}:");
@@ -21,13 +21,13 @@ namespace OOP
                 people[i].Input();        
             }
 
-            Console.WriteLine("\n--- Ім'я та вік кожної особи ---");
+            Console.WriteLine("\nІмена та вік осіб");
             foreach (var person in people)
             {
                 Console.WriteLine($"Ім'я: {person.Name}, Вік: {person.Age()}");
             }
 
-            Console.WriteLine("\n--- Зміна імен для тих, хто молодше 16 ---");
+            Console.WriteLine("\nЗміна імен");
             foreach (var person in people)
             {
                 if (person.Age() < 16)
@@ -36,13 +36,13 @@ namespace OOP
                 }
             }
 
-            Console.WriteLine("\n--- Інформація про всіх осіб після змін ---");
+            Console.WriteLine("\nІнформація після змін");
             foreach (var person in people)
             {
                 person.Output();
             }
 
-            Console.WriteLine("\n--- Пошук осіб з однаковими іменами ---");
+            Console.WriteLine("\nОсоби з однаковими іменами");
             bool foundDuplicate = false;
             
             for (int i = 0; i < people.Length; i++)
