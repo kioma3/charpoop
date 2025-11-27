@@ -5,3 +5,4 @@ C:\Users\kupak\Source\Repos\charpoop\OOP\OOP\obj\Debug\OOP.csproj.AssemblyRefere
 C:\Users\kupak\Source\Repos\charpoop\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
 C:\Users\kupak\Source\Repos\charpoop\OOP\OOP\obj\Debug\OOP.exe
 C:\Users\kupak\Source\Repos\charpoop\OOP\OOP\obj\Debug\OOP.pdb
+C:\Users\kupak\Source\Repos\charpoop\OOP\OOP\obj\Debug\OOP.exe.config
