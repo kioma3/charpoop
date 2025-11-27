@@ -43,6 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Animals\Animal.cs" />
+    <Compile Include="Animals\AnimalWithTail.cs" />
+    <Compile Include="Animals\Cat.cs" />
+    <Compile Include="Animals\Dog.cs" />
+    <Compile Include="Figures\Circle.cs" />
+    <Compile Include="Figures\Figure.cs" />
+    <Compile Include="Figures\Rectangle.cs" />
+    <Compile Include="Fruits\Apple.cs" />
+    <Compile Include="Fruits\Fruit.cs" />
+    <Compile Include="Fruits\Pear.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
